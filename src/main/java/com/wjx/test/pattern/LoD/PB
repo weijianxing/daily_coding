@@ -1,0 +1,8 @@
+迪米特法则的核心是类之间解耦，弱耦合，只有弱耦合后类的复用率
+六大设计原则：
+    single responsibility principle.
+    open closed principle.
+    Liskov substitution principle.
+    Law of demeter.
+    Interface segregation principle.
+    Dependence inversion principle.
